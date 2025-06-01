@@ -67,6 +67,9 @@ th, td {
 .large {
     font-size: 1.5em;
 }
+.small{
+    font-size: 0.3em;
+}
 
 /* 검색엔진 이미지 링크 */
 .search-logos {
@@ -74,4 +77,8 @@ th, td {
 }
 .search-logos img {
     margin-right: 10px;
+}
+
+.text_center {
+  text-align: center;
 }
