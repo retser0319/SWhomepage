@@ -32,7 +32,6 @@ body {
     box-shadow: 0 2px 10px rgba(0,0,0,0.15);
 }
 
-/* 테이블 스타일 */
 table {
     width: 400px;
     border-collapse: collapse;
@@ -46,13 +45,12 @@ th, td {
     text-align: left;
 }
 
-/* 다양한 글씨 색상, 배경, 크기 */
 .text1 {
     color: #2a9d8f;
     background-color: #e0f7fa;
     width: 500px;
-    margin: 0 auto; /* 수평 가운데 정렬 */
-    text-align: center; /* 안의 글씨도 가운데 정렬 */
+    margin: 0 auto;
+    text-align: center;
 }
 
 .text2 {
@@ -73,7 +71,6 @@ th, td {
     font-size: 0.3em;
 }
 
-/* 검색엔진 이미지 링크 */
 .search-logos {
     margin-top: 30px;
 }
