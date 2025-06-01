@@ -51,6 +51,8 @@ th, td {
     color: #2a9d8f;
     background-color: #e0f7fa;
     width: 500px;
+    margin: 0 auto; /* 수평 가운데 정렬 */
+    text-align: center; /* 안의 글씨도 가운데 정렬 */
 }
 
 .text2 {
